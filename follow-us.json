@@ -1,0 +1,37 @@
+[
+  {
+    "icon": "https://i.ibb.co/BfDm9JX/mi-telefe.png",
+    "description": "Aqui descripcion de Mi Telefe",
+    "url": "https://mitelefe.com/gran-hermano/"
+  },
+  {
+    "icon": "https://i.ibb.co/hsbkVjQ/facebook.png",
+    "description": "Aqui descripcion de Facebook",
+    "url": "https://www.facebook.com/GranHermanoAR/"
+  },
+  {
+    "icon": "https://i.ibb.co/FJtn7p7/twitch.png",
+    "description": "Aqui descripcion de Twitch",
+    "url": "https://www.twitch.tv/telefe"
+  },
+  {
+    "icon": "https://i.ibb.co/9w4cqpx/tik-tok.png",
+    "description": "Aqui descripcion de Tik Tok",
+    "url": "https://www.tiktok.com/@granhermanoar"
+  },
+  {
+    "icon": "https://i.ibb.co/P9m6VzS/pluto-tv.png",
+    "description": "Aqui descripcion de Pluto TV",
+    "url": "https://pluto.tv/es/live-tv/gran-hermano-en-vivo"
+  },
+  {
+    "icon": "https://i.ibb.co/QnYRFwz/x.png",
+    "description": "Aqui descripcion de X",
+    "url": "https://twitter.com/granhermanoar"
+  },
+  {
+    "icon": "https://i.ibb.co/DGfdXVD/instagram.png",
+    "description": "Aqui descripcion de Instagram",
+    "url": "https://www.instagram.com/granhermanoar/"
+  }
+]
