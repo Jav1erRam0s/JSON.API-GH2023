@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Walter Santiago",
+    "nick": "Alfa",
+    "photo": "https://i.ibb.co/KhCbs0b/walter.jpg",
+    "sex": "M",
+    "birthdate": "1962-01-24",
+    "description": "Alfa tiene 60 años, es de Tigre y está divorciado. Su trabajo consiste en comprar, vender y reparar autos de colección, una de sus grandes pasiones. Vivió en Miami durante trece años: se fue en 2001 y regresó en 2013.",
+    "state": "Eliminado",
+    "social-networks": ["https://www.instagram.com/alfa_walter"]
+  },
+  {
+    "name": "María Constanza Romero",
+    "nick": "Coti",
+    "photo": "https://i.ibb.co/SVz3S6W/coti.jpg",
+    "sex": "F",
+    "birthdate": "2002-04-18",
+    "description": "Alfa tiene 60 años, es de Tigre y está divorciado. Su trabajo consiste en comprar, vender y reparar autos de colección, una de sus grandes pasiones. Vivió en Miami durante trece años: se fue en 2001 y regresó en 2013.",
+    "state": "Eliminado",
+    "social-networks": [
+      "https://www.instagram.com/cotyrommero",
+      "https://www.twitch.tv/cotyrommmero",
+      "https://www.tiktok.com/@cotyrommero",
+      "https://www.youtube.com/@cotyrommmero"
+    ]
+  },
+  {
+    "name": "Agustin Guardis",
+    "nick": "Agustin",
+    "photo": "https://i.ibb.co/mTtGGhp/agustin.jpg",
+    "sex": "M",
+    "birthdate": "2002-04-18",
+    "description": "Alfa tiene 60 años, es de Tigre y está divorciado. Su trabajo consiste en comprar, vender y reparar autos de colección, una de sus grandes pasiones. Vivió en Miami durante trece años: se fue en 2001 y regresó en 2013.",
+    "state": "En juego",
+    "social-networks": ["https://www.instagram.com/alfa_walter"]
+  },
+  {
+    "name": "Marcos Ginocchio",
+    "nick": "Marcos",
+    "photo": "https://i.ibb.co/7v25Dkj/marcos.jpg",
+    "sex": "M",
+    "birthdate": "2002-04-18",
+    "description": "Alfa tiene 60 años, es de Tigre y está divorciado. Su trabajo consiste en comprar, vender y reparar autos de colección, una de sus grandes pasiones. Vivió en Miami durante trece años: se fue en 2001 y regresó en 2013.",
+    "state": "Nominado",
+    "social-networks": ["https://www.instagram.com/alfa_walter"]
+  },
+  {
+    "name": "Alexis Quiroga",
+    "nick": "Alexis",
+    "photo": "https://i.ibb.co/sVPc9RQ/alexis.jpg",
+    "sex": "M",
+    "birthdate": "2002-04-18",
+    "description": "Alfa tiene 60 años, es de Tigre y está divorciado. Su trabajo consiste en comprar, vender y reparar autos de colección, una de sus grandes pasiones. Vivió en Miami durante trece años: se fue en 2001 y regresó en 2013.",
+    "state": "Expulsado",
+    "social-networks": ["https://www.instagram.com/alfa_walter"]
+  },
+  {
+    "name": "Juan Reverdito",
+    "nick": "Juan",
+    "photo": "https://i.ibb.co/rx6cC6p/juan.jpg",
+    "sex": "M",
+    "birthdate": "2002-04-18",
+    "description": "Alfa tiene 60 años, es de Tigre y está divorciado. Su trabajo consiste en comprar, vender y reparar autos de colección, una de sus grandes pasiones. Vivió en Miami durante trece años: se fue en 2001 y regresó en 2013.",
+    "state": "Ganador",
+    "social-networks": ["https://www.instagram.com/alfa_walter"]
+  },
+  {
+    "name": "Julieta Poggio",
+    "nick": "Julieta",
+    "photo": "https://i.ibb.co/LJkw7TX/julieta.jpg",
+    "sex": "F",
+    "birthdate": "2002-04-18",
+    "description": "Alfa tiene 60 años, es de Tigre y está divorciado. Su trabajo consiste en comprar, vender y reparar autos de colección, una de sus grandes pasiones. Vivió en Miami durante trece años: se fue en 2001 y regresó en 2013.",
+    "state": "Salvado",
+    "social-networks": ["https://www.instagram.com/alfa_walter"]
+  },
+  {
+    "name": "Romina Uhrig",
+    "nick": "Romina",
+    "photo": "https://i.ibb.co/LkQ1nsc/romina.jpg",
+    "sex": "F",
+    "birthdate": "2002-04-18",
+    "description": "Alfa tiene 60 años, es de Tigre y está divorciado. Su trabajo consiste en comprar, vender y reparar autos de colección, una de sus grandes pasiones. Vivió en Miami durante trece años: se fue en 2001 y regresó en 2013.",
+    "state": "Lider",
+    "social-networks": ["https://www.instagram.com/alfa_walter"]
+  }
+]
