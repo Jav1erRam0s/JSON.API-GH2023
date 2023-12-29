@@ -123,7 +123,7 @@
     "state": "Eliminado",
     "place": 9,
     "days": 53,
-    "social-networks": ["---"]
+    "social-networks": ["https://www.instagram.com/arielansaldo"]
   },
   {
     "name": "Agustín Guardis",
@@ -206,7 +206,7 @@
   },
   {
     "name": "Juliana Díaz",
-    "nick": ["Juliana"],
+    "nick": ["Juliana", "Juli"],
     "photo": "https://i.ibb.co/hDbrrGv/juliana.webp",
     "sex": "F",
     "birthdate": "1990-11-28",
@@ -219,7 +219,7 @@
   },
   {
     "name": "María Laura Álvarez",
-    "nick": ["María Laura"],
+    "nick": ["María Laura", "Cata"],
     "photo": "https://i.ibb.co/0rzsWPm/maria-laura.webp",
     "sex": "F",
     "birthdate": "1981-12-31",
@@ -270,8 +270,8 @@
     "place": 19,
     "days": 14,
     "social-networks": [
-      "https://www.instagram.com/martistewart_/",
-      "https://www.instagram.com/martinausher_/"
+      "https://www.instagram.com/martistewart_",
+      "https://www.instagram.com/martinausher_"
     ],
     "_comment": "FECHA DE CUMPLEAÑOS MOCKEADO"
   },
@@ -287,7 +287,7 @@
     "place": 20,
     "days": 7,
     "social-networks": [
-      "https://www.instagram.com/tomasholder_/",
+      "https://www.instagram.com/tomasholder_",
       "https://www.tiktok.com/@tomasholder_"
     ]
   }
