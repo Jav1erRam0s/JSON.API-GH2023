@@ -1,7 +1,7 @@
 [
   {
     "name": "Marcos Ginocchio",
-    "nick": "Marcos",
+    "nick": ["Marcos"],
     "photo": "https://i.ibb.co/M7HTP33/marcos.webp",
     "sex": "M",
     "birthdate": "1999-10-16",
@@ -14,7 +14,7 @@
   },
   {
     "name": "Juan Ignacio Castañares Puente",
-    "nick": "Nacho",
+    "nick": ["Nacho"],
     "photo": "https://i.ibb.co/dLG0fKk/nacho.webp",
     "sex": "M",
     "birthdate": "2002-10-20",
@@ -33,7 +33,7 @@
   },
   {
     "name": "Julieta Poggio",
-    "nick": "Julieta",
+    "nick": ["Julieta", "Disney"],
     "photo": "https://i.ibb.co/sm7KRy8/julieta.webp",
     "sex": "F",
     "birthdate": "2002-01-09",
@@ -46,7 +46,7 @@
   },
   {
     "name": "Romina Uhrig",
-    "nick": "Romina",
+    "nick": ["Romina"],
     "photo": "https://i.ibb.co/x7N6HYy/romina.webp",
     "sex": "F",
     "birthdate": "1988-01-27",
@@ -130,7 +130,7 @@
     "nick": ["Agustín", "Frodo"],
     "photo": "https://i.ibb.co/bbzhG1c/agustin.webp",
     "sex": "M",
-    "birthdate": "1998-12-31",  
+    "birthdate": "1998-12-31",
     "description": "Tiene 25 años, es de La Plata, y es analista político. Animaba fiestas infantiles, pero ahora está desempleado. Es soltero. “Voy a convertirme en el mejor jugador de la historia de Gran Hermano. Si para ganar, tengo que generar conflicto, lo voy a hacer”, confió.",
     "presentation": "https://www.youtube.com/embed/vitGUx8ge-U",
     "state": "Eliminado",
@@ -206,7 +206,7 @@
   },
   {
     "name": "Juliana Díaz",
-    "nick": ["Juliana", "Juli"],
+    "nick": ["Juliana"],
     "photo": "https://i.ibb.co/hDbrrGv/juliana.webp",
     "sex": "F",
     "birthdate": "1990-11-28",
