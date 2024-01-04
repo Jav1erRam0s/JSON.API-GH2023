@@ -1,15 +1,15 @@
 [
   {
-    "name": "Mi-Telefe",
+    "name": "MiTelefe",
     "icon": "https://i.ibb.co/BfDm9JX/mi-telefe.png",
-    "description": "Revivi GH en 🔵🟢🔴.",
-    "url": "https://mitelefe.com/gran-hermano/"
+    "description": "Mi Telefe",
+    "url": "https://mitelefe.com/gran-hermano"
   },
   {
-    "name": "DirecTV-Go",
-    "icon": "https://i.ibb.co/LCzCRXx/directv-go.png",
-    "description": "Mira la casa de GH en vivo las 24hs 🎥.",
-    "url": "https://www.directvgo.com/ar/granhermano"
+    "name": "PlutoTV",
+    "icon": "https://i.ibb.co/P9m6VzS/pluto-tv.png",
+    "description": "Pluto TV",
+    "url": "https://pluto.tv/es/live-tv"
   },
   {
     "name": "Tik-Tok",
@@ -26,19 +26,19 @@
   {
     "name": "X",
     "icon": "https://i.ibb.co/QnYRFwz/x.png",
-    "description": "X",
+    "description": "Twitter",
     "url": "https://twitter.com/granhermanoar"
   },
   {
     "name": "Instagram",
     "icon": "https://i.ibb.co/DGfdXVD/instagram.png",
-    "description": "Instagram.",
-    "url": "https://www.instagram.com/granhermanoar/"
+    "description": "Instagram",
+    "url": "https://www.instagram.com/granhermanoar"
   },
   {
     "name": "Facebook",
     "icon": "https://i.ibb.co/hsbkVjQ/facebook.png",
     "description": "Facebook",
-    "url": "https://www.facebook.com/GranHermanoAR/"
+    "url": "https://www.facebook.com/GranHermanoAR"
   }
 ]
