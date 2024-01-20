@@ -10,7 +10,7 @@
     "state": "Ganador",
     "place": 1,
     "days": 162,
-    "social-networks": ["https://www.instagram.com/marcosginocchio"]
+    "networks": ["https://www.instagram.com/marcosginocchio"]
   },
   {
     "name": "Juan Ignacio Castañares Puente",
@@ -23,7 +23,7 @@
     "state": "2° Puesto",
     "place": 2,
     "days": 162,
-    "social-networks": [
+    "networks": [
       "https://www.instagram.com/nachoo_cp",
       "https://twitter.com/nachoo_cp",
       "https://www.youtube.com/@nachoo_cp",
@@ -42,7 +42,7 @@
     "state": "3° Puesto",
     "place": 3,
     "days": 162,
-    "social-networks": ["https://www.instagram.com/poggiojulieta"]
+    "networks": ["https://www.instagram.com/poggiojulieta"]
   },
   {
     "name": "Romina Uhrig",
@@ -55,7 +55,7 @@
     "state": "Eliminada",
     "place": 4,
     "days": 154,
-    "social-networks": [
+    "networks": [
       "https://www.instagram.com/romina_uhrig",
       "https://www.youtube.com/@Romina_Uhrig"
     ]
@@ -71,7 +71,7 @@
     "state": "Eliminada",
     "place": 5,
     "days": 88,
-    "social-networks": ["https://www.instagram.com/camii_lattanzio"]
+    "networks": ["https://www.instagram.com/camii_lattanzio"]
   },
   {
     "name": "Lucila Belén Villar",
@@ -84,7 +84,7 @@
     "state": "Eliminada",
     "place": 6,
     "days": 105,
-    "social-networks": ["https://www.instagram.com/luvillarr"]
+    "networks": ["https://www.instagram.com/luvillarr"]
   },
   {
     "name": "Daniela Celis",
@@ -97,7 +97,7 @@
     "state": "Eliminada",
     "place": 7,
     "days": 120,
-    "social-networks": ["https://www.instagram.com/danielacelis01"]
+    "networks": ["https://www.instagram.com/danielacelis01"]
   },
   {
     "name": "Walter Santiago",
@@ -110,7 +110,7 @@
     "state": "Eliminado",
     "place": 8,
     "days": 119,
-    "social-networks": ["https://www.instagram.com/alfa_walter"]
+    "networks": ["https://www.instagram.com/alfa_walter"]
   },
   {
     "name": "Ariel Ansaldo",
@@ -123,7 +123,7 @@
     "state": "Eliminado",
     "place": 9,
     "days": 53,
-    "social-networks": ["https://www.instagram.com/arielansaldo"]
+    "networks": ["https://www.instagram.com/arielansaldo"]
   },
   {
     "name": "Agustín Guardis",
@@ -136,7 +136,7 @@
     "state": "Eliminado",
     "place": 10,
     "days": 91,
-    "social-networks": [
+    "networks": [
       "https://www.instagram.com/agustinguardis",
       "https://m.twitch.tv/agusguardis"
     ],
@@ -153,7 +153,7 @@
     "state": "Eliminado",
     "place": 11,
     "days": 98,
-    "social-networks": ["https://www.instagram.com/max_pela"]
+    "networks": ["https://www.instagram.com/max_pela"]
   },
   {
     "name": "Thiago Agustín Medina",
@@ -166,7 +166,7 @@
     "state": "Eliminado",
     "place": 12,
     "days": 91,
-    "social-networks": [
+    "networks": [
       "http://www.instagram.com/thi4go_km",
       "https://www.twitch.tv/thi4gokm",
       "https://www.tiktok.com/@thiagokm",
@@ -184,7 +184,7 @@
     "state": "Eliminado",
     "place": 13,
     "days": 85,
-    "social-networks": ["https://www.instagram.com/alexis_quirogaaa"]
+    "networks": ["https://www.instagram.com/alexis_quirogaaa"]
   },
   {
     "name": "Constanza Romero",
@@ -197,7 +197,7 @@
     "state": "Eliminada",
     "place": 14,
     "days": 77,
-    "social-networks": [
+    "networks": [
       "https://www.instagram.com/cotyrommero",
       "https://www.youtube.com/@cotyrommmero",
       "https://www.tiktok.com/@cotyrommero",
@@ -215,7 +215,7 @@
     "state": "Expulsada",
     "place": 15,
     "days": 48,
-    "social-networks": ["https://www.instagram.com/juuli.dc"]
+    "networks": ["https://www.instagram.com/juuli.dc"]
   },
   {
     "name": "María Laura Álvarez",
@@ -228,7 +228,7 @@
     "state": "Eliminada",
     "place": 16,
     "days": 49,
-    "social-networks": ["https://www.instagram.com/cata_marialaura"],
+    "networks": ["https://www.instagram.com/cata_marialaura"],
     "_comment": "FECHA DE CUMPLEAÑOS MOCKEADO"
   },
   {
@@ -242,7 +242,7 @@
     "state": "Eliminado",
     "place": 17,
     "days": 28,
-    "social-networks": ["https://www.instagram.com/juan.reverdito"],
+    "networks": ["https://www.instagram.com/juan.reverdito"],
     "_comment": "FECHA DE CUMPLEAÑOS MOCKEADO"
   },
   {
@@ -256,7 +256,7 @@
     "state": "Eliminada",
     "place": 18,
     "days": 21,
-    "social-networks": ["https://www.instagram.com/morajabor"]
+    "networks": ["https://www.instagram.com/morajabor"]
   },
   {
     "name": "Martina Stewart Usher",
@@ -269,7 +269,7 @@
     "state": "Eliminada",
     "place": 19,
     "days": 14,
-    "social-networks": [
+    "networks": [
       "https://www.instagram.com/martistewart_",
       "https://www.instagram.com/martinausher_"
     ],
@@ -286,7 +286,7 @@
     "state": "Eliminado",
     "place": 20,
     "days": 7,
-    "social-networks": [
+    "networks": [
       "https://www.instagram.com/tomasholder_",
       "https://www.tiktok.com/@tomasholder_"
     ]
