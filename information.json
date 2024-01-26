@@ -2,13 +2,14 @@
   "host": "Santiago del Moro",
   "photoHost": "https://i.ibb.co/QKTRLNq/santiago-del-moro.jpg",
   "edition": 10,
-  "description": "Gran hermano 2023 es la décima edición de la versión argentina del reality show holandés Big Brother producido por Kuarzo Entertainment Argentina y emitido por Telefe, luego de dos ediciones en la pantalla de América TV, retornando así a su canal de origen luego de una década.\nPara esta edición se contó con una nueva casa, distinta a las utilizadas en ediciones anteriores, la cual cuenta con más de 2 500 metros cuadrados, convirtiéndola en la casa más grande en la historia de Gran hermano en Argentina.",
-  "numberOfPlayers": 20,
+  "description": "Gran hermano 2023 es la décima edición de la versión argentina del reality show holandés Big Brother producido por Kuarzo Entertainment Argentina y emitido por Telefe, luego de dos ediciones en la pantalla de América TV, retornando así a su canal de origen luego de una década.\nPara esta edición se contó con una nueva casa, distinta a las utilizadas en ediciones anteriores, la cual cuenta con más de 2.500 metros cuadrados, convirtiéndola en la casa más grande en la historia de Gran hermano en Argentina.",
   "startDate": "2022-10-17",
   "endDate": "2023-03-27",
   "numberOfDays": 162,
-  "averangeRating": 19.1,
-  "firstPrize": "$ 19.441.132, una casa de Viviendas Roca y cerveza Amstel gratis por un año",
+  "averangeRating": 20.2,
+  "numberOfPlayers": 20,
+  "firstPrize": "$ 15.000.000, una casa de Viviendas Roca y cerveza Amstel gratis por un año",
   "secondPrize": "Una casa de Viviendas Roca",
-  "thirdPrize": "Un viaje a cualquier parte del mundo para dos personas"
+  "thirdPrize": "Un viaje a cualquier parte del mundo para dos personas",
+  "observation": "El premio inicial $ 15M se invirtió a través de Mercado Pago y en consecuencia, el monto final ascendio a $ 19.441.132."
 }
